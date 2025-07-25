@@ -1,6 +1,6 @@
 # Python-Assignment-4-Submission
 
-Task 1: Read a File and Handle Errors 
+# Task 7: Read a File and Handle Errors 
 Problem Statement:  Write a Python program that:
 1.   Opens and reads a text file named sample.txt.
 2.   Prints its content line by line.
@@ -20,7 +20,7 @@ Excepted Otput:
 Error: The file 'sample.txt' does not exist.
 
 
-Task 2: Write and Append Data to a File
+Task 8: Write and Append Data to a File
  
 Problem Statement: Write a Python program that:
 1.   Takes user input and writes it to a file named output.txt.
