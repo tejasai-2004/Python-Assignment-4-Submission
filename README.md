@@ -20,7 +20,7 @@ Excepted Otput:
 Error: The file 'sample.txt' does not exist.
 
 
-Task 8: Write and Append Data to a File
+# Task 8: Write and Append Data to a File
  
 Problem Statement: Write a Python program that:
 1.   Takes user input and writes it to a file named output.txt.
@@ -28,8 +28,6 @@ Problem Statement: Write a Python program that:
 3.   Reads and displays the final content of the file.
  
 Program:
-
-# Task 8: File Handling in Python
 
 text_to_write = input("Enter text to write to the file: ")
 with open("output.txt", "w") as file:
